@@ -1,4 +1,4 @@
 # First-
 My first website 
 ## My Favorite Class 
-![alt text](image.jpg)
+![alt text](Seattle.jpg)
