@@ -3,5 +3,5 @@ My first website
 
 ## My Favorite Class 
 ![R34](SkylineR34.jpg)
-## My favorite website 
+## My Favorite Website 
 [Google](https://www.google.com/)
